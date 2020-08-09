@@ -1,0 +1,23 @@
+<Extensions>
+  <Version>1.7</Version>
+  <Panel>
+    <Order>1</Order>
+    <PanelId>TopLeft</PanelId>
+    <Origin>local</Origin>
+    <Type>Home</Type>
+    <Icon>Camera</Icon>
+    <Color>#00D6A2</Color>
+    <Name>TopLeft</Name>
+    <ActivityType>Custom</ActivityType>
+  </Panel>
+  <Panel>
+    <Order>2</Order>
+    <PanelId>BottomRight</PanelId>
+    <Origin>local</Origin>
+    <Type>Home</Type>
+    <Icon>Camera</Icon>
+    <Color>#FF3D67</Color>
+    <Name>BottomRight</Name>
+    <ActivityType>Custom</ActivityType>
+  </Panel>
+</Extensions>
